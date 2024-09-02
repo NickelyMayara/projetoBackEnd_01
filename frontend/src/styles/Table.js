@@ -24,4 +24,7 @@ export const Th = styled.th`
 `
 
 export const Td = styled.td`
+    color: #3c24b5;
+    text-align: center;
+    font-weight: 600;
 `

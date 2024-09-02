@@ -25,7 +25,7 @@ export const Input = styled.input`
 export const Button = styled.button`
     color: black;
     cursor: pointer;
-    background-color: cornflowerblue;
+    background-color: blueviolet;
     padding: 8.5px;
     border: transparent;
     border-radius: 5px;
